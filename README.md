@@ -2,7 +2,6 @@
 
 **`Astronomical and Planetary Sciences student at Arizonza State University`**
 <br />
-Pronouns: He/Him/His
 
 ---
 
