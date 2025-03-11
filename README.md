@@ -2,7 +2,10 @@
 
 **`Astronomical and Planetary Sciences student at Arizonza State University`**
 <br />
-
+- 👋 Hi, I’m @astro-doug
+- 👀 I’m interested in the Formation of Exoplanets in Protoplanetary Disks
+- 🌱 I’m currently studying: Astronomical and Planetary Sciences at Arizonza State University, as well as Python
+- 💞️ I am a contributer to the open source 🔭 <a href="https://github.com/bluesky-astronomy">Astronomy on Bluesky</a> project
 ---
 
 ### 🧰 Languages and Tools
