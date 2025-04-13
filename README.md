@@ -32,7 +32,7 @@
 
 ### 📊 Stats
 
-![Astro-Doug's GitHub stats]
+[Astro-Doug's GitHub stats]
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=astro-doug&count_private=true&show_icons=true&theme=prussian" width="400">
