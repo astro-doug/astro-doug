@@ -6,7 +6,7 @@
 - 👀 I’m interested in the Formation of Exoplanets in Protoplanetary Disks
 - 🌱 I’m currently studying: Astronomical and Planetary Sciences at Arizonza State University with a minor in Physics
 - I'm also learning Python
-- 💞️ I use my coding skills to contribute to the open source 🔭 <a href="https://github.com/bluesky-astronomy">Astrosky Ecosystem</a> project
+- 💞️ I use my coding skills to contribute to the open source 🔭 <a href="https://github.com/the-astrosky-ecosystem">Astrosky Ecosystem</a> project
 ---
 
 ### 🧰 Languages and Tools
