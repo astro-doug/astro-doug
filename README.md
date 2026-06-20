@@ -1,12 +1,13 @@
 # 🔭 Astro-Doug
 
-**`Astronomical and Planetary Sciences student at Arizonza State University`**
+**`Astronomical and Planetary Sciences (Astrophysics) student at Arizonza State University`**
 <br />
 - 👋 Hi, I’m @astro-doug
 - 👀 I’m interested in the Formation of Exoplanets in Protoplanetary Disks
-- 🌱 I’m currently studying: Astronomical and Planetary Sciences at Arizonza State University with a minor in Physics
+- 🌱 I’m currently studying: Astronomical and Planetary Sciences (Astrophysics) at Arizonza State University
 - I'm also learning Python
 - 💞️ I use my coding skills to contribute to the open source 🔭 <a href="https://github.com/the-astrosky-ecosystem">Astrosky Ecosystem</a> project
+- 😄 Pronouns: He/Him/His
 ---
 
 ### 🧰 Languages and Tools
